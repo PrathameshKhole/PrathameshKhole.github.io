@@ -126,10 +126,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
-  - icon: resume
-    icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/Prathamesh_Khole_resume
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
