@@ -56,7 +56,7 @@ sections:
       items:
         - title: Research Assistant
           company: Univeristy of California Santa Cruz
-          company_url: ''
+          company_url: 'https://razvanmarinescu.com/'
           company_logo: ucsc2
           location: Santa Cruz, California
           date_start: '2023-01-01'
@@ -68,7 +68,7 @@ sections:
               * Medical Image Visualization
         - title: Teaching Assistant
           company: Univeristy of California Santa Cruz
-          company_url: ''
+          company_url: 'https://engineering.ucsc.edu/departments/computer-science-and-engineering/'
           company_logo: ucsc2
           location: Santa Cruz, California
           date_start: '2023-01-01'
@@ -76,20 +76,28 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Conducting Lab sessions
+              * Teaching Digital logic design in labs
+              * Teaching and Debugging RISC-V in lab sections.
+              * Assignment and Quiz assessments
         - title: Business Technology Solutions Associate
           company: ZS Associates
-          company_url: ''
+          company_url: 'https://www.zs.com/'
           company_logo: ZS
           location: Pune, India
           date_start: '2021-08-09'
           date_end: '2022-06-19'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: |2-
+              Responsibilities include:
+
+              * Improving data preprocessing with Python, PySpark, and HiveQL, achieving over 90% time reduction for machine learning readiness.
+              * Deriving sales insights using advanced data analytics and SQL, facilitating strategic market expansion.
+              * Enhancing customer engagement through targeted recommendation algorithms, improving suggestion reach by 10%.
+              * Conducting efficient data integration and extraction using SQL and HiveQL for machine learning model inputs.
+              * Developing a dynamic dashboard to visualize sales and customer engagement, aiding in strategic decision-making.
         - title: Project Intern
           company: Schneider Electric Systems
-          company_url: ''
+          company_url: 'https://www.se.com/us/en/'
           company_logo: SE
           location: Kuwait
           date_start: '2019-06-05'
@@ -97,9 +105,8 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Conducting Process Graphics validation to ensure alignment with project specifications.
+              * Performing database integrity checks to maintain adherence to input specifications and data accuracy.
     design:
       columns: '2'
   - block: portfolio
