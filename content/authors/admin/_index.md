@@ -132,7 +132,9 @@ social:
 highlight_name: true
 ---
 
-Hello! I am a CS Graduate student at the University of California Santa Cruz. I am currenlty working on differentiable medical scan simulators in Professor [Razvan Marinescu](https://razvanmarinescu.com/)'s lab at UCSC. 
+Hello! I am a graduate student in Computer Science at the [University of California, Santa Cruz](https://www.ucsc.edu/). I hold a Bachelor's degree in Computer Science with distinction from the [Pune Institute of Computer Technology](https://pict.edu/), affiliated with the [Savitribai Phule Pune University](http://www.unipune.ac.in/), formerly known as the [University of Pune](http://www.unipune.ac.in/). My education has honed my technical skills and fostered a passion for innovation in technology.
+
+As a master student, I am currently a part of Professor [Razvan Marinescu](https://razvanmarinescu.com/)'s lab at UCSC, and working on differentiable medical image scan simulators. 
 
 My current reseach has been mainly focused on physics based Diffusion MRI simulators, general deep learning and artifical intelligence. Recently I have been experimenting with various LLMs and how they can be helpful in my research domains. I am also interested in Data Science, Block chain and Databases.
 {style="text-align: justify;"}
