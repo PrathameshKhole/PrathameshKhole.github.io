@@ -79,7 +79,7 @@ sections:
               * Conducting Lab sessions
               * Teaching Digital logic design in labs
               * Teaching and Debugging RISC-V in lab sections.
-              * Assignment and Quiz assessments
+              * Assessment of Assignments and Quizes
         - title: Business Technology Solutions Associate
           company: ZS Associates
           company_url: 'https://www.zs.com/'
