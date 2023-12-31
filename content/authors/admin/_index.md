@@ -132,5 +132,5 @@ social:
 highlight_name: true
 ---
 
-Hello! I am a CS Graduate student at the University of California Santa Cruz. I currenlty working on differentiable medical scan simulators in Professor Razvan Marinescu's lab. My current reseach has been mainly focused on physics based Diffusion MRI simulators, and general deep learning and artifical intelligence. Recently I have been experimenting with various LLMs and how they can be helpful in my research domains.
+Hello! I am a CS Graduate student at the University of California Santa Cruz. I currenlty working on differentiable medical scan simulators in Professor Razvan Marinescu's lab. My current reseach has been mainly focused on physics based Diffusion MRI simulators, general deep learning and artifical intelligence. Recently I have been experimenting with various LLMs and how they can be helpful in my research domains.
 {style="text-align: justify;"}
