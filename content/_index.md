@@ -55,7 +55,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Research Assistant
-          company: Univeristy of California Santa Cruz
+          company: Razvan Marinescu's Lab
           company_url: 'https://razvanmarinescu.com/'
           company_logo: ucsc2
           location: Santa Cruz, California
