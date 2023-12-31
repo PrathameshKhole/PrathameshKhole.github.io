@@ -256,18 +256,18 @@ sections:
   #   design:
   #     columns: '2'
   #     view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
+  # - block: tag_cloud
+  #   content:
+  #     title: Popular Topics
+  #   design:
+  #     columns: '2'
   - block: contact
     id: contact
     content:
       title: Contact
       subtitle:
       text: |-
-        Please feel free to reach out to me via call or email
+        Please feel free to reach out to me via email or call
       # Contact (add or remove contact options as necessary)
       email: prathameshppkhole@gmail.com
       phone: +1 831 295 9354
