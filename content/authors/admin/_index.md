@@ -67,27 +67,27 @@ skills:
         description: ''
         percent: 90
         icon: database
-        icon_pack: fas
+        icon_pack: fab
       - name: JAVA
         description: ''
         percent: 70
-        icon: java-icon
-        icon_pack: fas
+        icon: javaicon
+        icon_pack: fab
       - name: RISC-V
         description: ''
         percent: 80
-        icon: RISC-V-logo
-        icon_pack: fas
+        icon: RISClogo
+        icon_pack: fab
       - name: Julia
         description: ''
         percent: 75
-        icon: julia-svgrepo-com
-        icon_pack: fas
+        icon: juliaicon
+        icon_pack: fab
       - name: Latex
         description: ''
         percent: 85
-        icon: latex-svgrepo-com
-        icon_pack: fas
+        icon: latexicon
+        icon_pack: fab
   - name: Tools
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -95,18 +95,18 @@ skills:
       - name: Pytorch
         description: ''
         percent: 80
-        icon: pytorch-icon
-        icon_pack: fas
+        icon: pytorchicon
+        icon_pack: fab
       - name: BASH
         description: ''
         percent: 85
-        icon: gnu_bash-icon
-        icon_pack: fas
+        icon: gnuicon
+        icon_pack: fab
       - name: AWS
         description: ''
         percent: 85
-        icon: aws-svgrepo-com
-        icon_pack: fas
+        icon: awsicon
+        icon_pack: fab
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
