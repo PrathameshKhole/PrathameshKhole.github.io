@@ -31,7 +31,7 @@ bio: My research is focused on deep learning, artificial intelligence, and compu
 interests:
   - Artificial Intelligence
   - Deep Learning
-  - Computer Vision
+  - Computer Graphics
   - Large Language Models
   - Physics based simulators
   - AI for Health
@@ -51,17 +51,17 @@ education:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  - name: Languages
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 90
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: C++
         description: ''
         percent: 100
-        icon: chart-line
+        icon: c.svg
         icon_pack: fas
       - name: SQL
         description: ''
