@@ -61,8 +61,7 @@ skills:
       - name: C++
         description: ''
         percent: 100
-        icon: c.svg
-        icon_pack: fas
+        icon: icons/brands/c.svg
       - name: SQL
         description: ''
         percent: 40
