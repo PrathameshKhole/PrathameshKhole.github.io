@@ -56,37 +56,30 @@ skills:
       - name: Python
         description: ''
         percent: 90
-        icon: python
         icon_pack: fab
       - name: C++
         description: ''
         percent: 95
-        icon: c
         icon_pack: fab
       - name: SQL
         description: ''
         percent: 90
-        icon: database
         icon_pack: fab
       - name: JAVA
         description: ''
         percent: 70
-        icon: javaicon
         icon_pack: fab
       - name: RISC-V
         description: ''
         percent: 80
-        icon: RISClogo
         icon_pack: fab
       - name: Julia
         description: ''
         percent: 75
-        icon: juliaicon
         icon_pack: fab
       - name: Latex
         description: ''
         percent: 85
-        icon: latexicon
         icon_pack: fab
   - name: Tools
     color: '#eeac02'
@@ -95,17 +88,14 @@ skills:
       - name: Pytorch
         description: ''
         percent: 80
-        icon: pytorchicon
         icon_pack: fab
       - name: BASH
         description: ''
         percent: 85
-        icon: gnuicon
         icon_pack: fab
       - name: AWS
         description: ''
         percent: 85
-        icon: awsicon
         icon_pack: fab
 
 # Social/Academic Networking
