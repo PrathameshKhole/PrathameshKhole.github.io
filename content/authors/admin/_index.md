@@ -132,7 +132,7 @@ social:
 highlight_name: true
 ---
 
-Hello! I am a graduate student in Computer Science and Engineering at the [University of California, Santa Cruz](https://www.ucsc.edu/). I hold a Bachelor's degree in Computer Science with distinction from the [Pune Institute of Computer Technology](https://pict.edu/), affiliated with the [Savitribai Phule Pune University](http://www.unipune.ac.in/), formerly known as the [University of Pune](http://www.unipune.ac.in/). My education has honed my technical skills and fostered a passion for innovation in technology.
+Hello! I am a graduate student in Computer Science and Engineering at the [University of California, Santa Cruz](https://www.ucsc.edu/). I hold a Bachelor's degree in Computer Science with distinction from the [Pune Institute of Computer Technology](https://pict.edu/), affiliated with the [Savitribai Phule Pune University](http://www.unipune.ac.in/), formerly known as the [University of Pune](http://www.unipune.ac.in/).
 
 As a master student, I am currently a part of Professor [Razvan Marinescu](https://razvanmarinescu.com/)'s lab at UCSC, and working on differentiable medical image scan simulators. 
 
