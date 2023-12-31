@@ -82,7 +82,7 @@ sections:
         - title: Business Technology Solutions Associate
           company: ZS Associates
           company_url: ''
-          company_logo: org-x
+          company_logo: ZS
           location: Pune, India
           date_start: '2021-08-09'
           date_end: '2022-06-19'
@@ -90,7 +90,7 @@ sections:
         - title: Project Intern
           company: Schneider Electric Systems
           company_url: ''
-          company_logo: org-gc
+          company_logo: SE
           location: Kuwait
           date_start: '2019-06-05'
           date_end: '2019-09-01'
