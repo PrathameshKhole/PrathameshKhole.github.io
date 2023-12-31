@@ -60,32 +60,52 @@ skills:
         icon_pack: fab
       - name: C++
         description: ''
-        percent: 100
+        percent: 95
         icon: c
-
+        icon_pack: fab
       - name: SQL
         description: ''
-        percent: 40
+        percent: 90
         icon: database
         icon_pack: fas
-  - name: Hobbies
+      - name: JAVA
+        description: ''
+        percent: 70
+        icon: java-icon
+        icon_pack: fas
+      - name: RISC-V
+        description: ''
+        percent: 80
+        icon: RISC-V-logo
+        icon_pack: fas
+      - name: Julia
+        description: ''
+        percent: 75
+        icon: julia-svgrepo-com
+        icon_pack: fas
+      - name: Latex
+        description: ''
+        percent: 85
+        icon: latex-svgrepo-com
+        icon_pack: fas
+  - name: Tools
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
+      - name: Pytorch
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: pytorch-icon
+        icon_pack: fas
+      - name: BASH
+        description: ''
+        percent: 85
+        icon: gnu_bash-icon
+        icon_pack: fas
+      - name: AWS
+        description: ''
+        percent: 85
+        icon: aws-svgrepo-com
         icon_pack: fas
 
 # Social/Academic Networking
