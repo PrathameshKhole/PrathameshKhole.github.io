@@ -88,7 +88,7 @@ sections:
           date_start: '2021-08-09'
           date_end: '2022-06-19'
           description: |2-
-              Responsibilities include:
+              Responsibilities and Achievements:
 
               * Improving data preprocessing with Python, PySpark, and HiveQL, achieving over 90% time reduction for machine learning readiness.
               * Deriving sales insights using advanced data analytics and SQL, facilitating strategic market expansion.
