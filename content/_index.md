@@ -57,7 +57,7 @@ sections:
         - title: Research Assistant
           company: Univeristy of California Santa Cruz
           company_url: ''
-          company_logo: UCSCB
+          company_logo: ucsc2
           location: Santa Cruz, California
           date_start: '2023-01-01'
           date_end: ''
@@ -69,7 +69,7 @@ sections:
         - title: Teaching Assistant
           company: Univeristy of California Santa Cruz
           company_url: ''
-          company_logo: UCSCB
+          company_logo: ucsc2
           location: Santa Cruz, California
           date_start: '2023-01-01'
           date_end: ''
