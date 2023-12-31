@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Prathamesh's portfolio # Website name
+title: Prathamesh Khole # Website name
 baseURL: 'https://prathameshkhole.github.io/' # Website URL
 
 ############################
