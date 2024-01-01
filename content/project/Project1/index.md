@@ -3,6 +3,7 @@ title: Differentiable Diffusion MRI Simulator
 summary: Simulating Diffusion Magnetic Resonance Imaging signal generation in a differentiable way.
 tags:
   - Medical Imaging
+  - Deep Learning
 date: '2023-02-01'
 
 # Optional external URL for project (replaces project detail page).
