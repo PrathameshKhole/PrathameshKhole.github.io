@@ -12,7 +12,7 @@ image:
   caption: Red Black tree ORAM
   focal_point: Smart
 
-slides = "ORAMSlides".
-slides: example
+# slides = "ORAMSlides".
+# slides: example
 ---
 
