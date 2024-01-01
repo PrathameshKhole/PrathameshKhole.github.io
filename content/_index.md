@@ -126,10 +126,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
         - name: Medical Imaging
           tag: Medical Imaging
+        - name: Deep Learning
+          tag: Deep Learning
         - name: Cryptography
           tag: Cryptography
         - name: Blockchain
