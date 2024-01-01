@@ -1,15 +1,15 @@
 ---
-title: Oblivous Random Access Machine using Red Black trees
-summary: Implemented ORAM using Red Black tree as the logical tree underneath, allowing for faster deletions.
+title: NGO Connect 
+summary: Designed an Developed an android application as a platform for communication between Educational NGOs and Professionals willing to help.
 tags:
   - Android App
-date: "2023-03-01"
+date: "2019-12-01"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: https://example.org
 
 image:
-  caption: Red Black tree ORAM
+  caption: NGO Logo
   focal_point: Smart
 
 # slides = "ORAMSlides".
