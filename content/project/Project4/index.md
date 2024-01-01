@@ -3,7 +3,7 @@ title: Document Reader & Extractor
 summary: Using Image Processing and OCR, to extract text data from documents and store it into text or csv files.
 tags:
   - Deep Learning
-date: "2023-03-01"
+date: "2020-03-01"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: https://example.org
