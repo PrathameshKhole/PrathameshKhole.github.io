@@ -28,6 +28,9 @@ main:
   - name: CV
     url: uploads/Prathamesh_Khole_resume.pdf
     weight: 70
+  - name: Résumé
+    url: uploads/Prathamesh_Pradeep_Khole_Resume_short.pdf
+    weight: 85
 
   # Link to a PDF of your resume/CV from the menu.
   # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
