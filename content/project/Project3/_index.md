@@ -1,15 +1,15 @@
 ---
-title: Oblivous Random Access Machine using Red Black trees
-summary: Implemented ORAM using Red Black tree as the logical tree underneath, allowing for faster deletions.
+title: Philanthropy on Blockchain
+summary: Developed an online donation platform for charities to receive funds via ethereum based blockchain, with added voting system for reliability and providing maximum transparency.
 tags:
-  - Cryptography
-date: "2023-03-01"
+  - Blockchain
+date: "2021-05-01"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: https://example.org
 
 image:
-  caption: Red Black tree ORAM
+  caption: Ethereum
   focal_point: Smart
 
 # slides = "ORAMSlides".
