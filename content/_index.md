@@ -101,7 +101,7 @@ sections:
           company_logo: SE
           location: Kuwait
           date_start: '2019-06-05'
-          date_end: '2019-09-01'
+          date_end: '2019-08-31'
           description: |2-
               Responsibilities include:
 
