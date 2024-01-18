@@ -275,7 +275,7 @@ sections:
       text: |-
         Please feel free to reach out to me via email or call
       # Contact (add or remove contact options as necessary)
-      email: prathameshppkhole@gmail.com
+      email: pkhole@ucsc.edu
       phone: +1 831 295 9354
       # appointment_url: 'https://calendly.com'
       address:

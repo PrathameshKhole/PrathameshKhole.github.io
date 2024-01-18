@@ -113,7 +113,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:prathameshppkhole@gmail.com'
+    link: 'mailto:pkhole@ucsc.edu'
   #- icon: twitter
   #  icon_pack: fab
   #  link: https://twitter.com/GeorgeCushen
