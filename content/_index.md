@@ -293,6 +293,8 @@ sections:
       coordinates:
         latitude: '36.974117'
         longitude: '-122.030792'  
+      globe:
+        <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=PYzc__qn22UhO3-vIBQaTIm1WyXR5ni2iWqNe-f618A"></script>
       # contact_links:
       #   - icon: twitter
       #     icon_pack: fab
@@ -319,5 +321,3 @@ sections:
     design:
       columns: '2'
 ---
-
-<a href="http://www.clustrmaps.com/map/Prathameshkhole.github.io" title="Visit tracker for Prathameshkhole.github.io"><img src="//www.clustrmaps.com/map_v2.png?d=PYzc__qn22UhO3-vIBQaTIm1WyXR5ni2iWqNe-f618A" /></a>
