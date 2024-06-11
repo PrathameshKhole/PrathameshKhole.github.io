@@ -293,6 +293,9 @@ sections:
       coordinates:
         latitude: '36.974117'
         longitude: '-122.030792'  
+        text: | 
+            Thank you for visiting my webpage!!
+            {{< clustrmaps >}}
       # contact_links:
       #   - icon: twitter
       #     icon_pack: fab
@@ -308,9 +311,6 @@ sections:
       #     link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
       autolink: true
-      text: |
-            Welcome to my website!
-            {{< clustrmaps >}}
       # Email form provider
       # form:
       #   provider: netlify
