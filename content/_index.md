@@ -320,5 +320,9 @@ sections:
     design:
       columns: '2'
   - block: globe
-    img: {{< clustrmaps >}}
+    content:
+      text: |
+        {{< clustrmaps >}}
+    design:
+      columns: '1'
 ---
