@@ -316,17 +316,9 @@ sections:
       #   netlify:
       #     # Enable CAPTCHA challenge to reduce spam?
       #     captcha: false
+      text: |
+        Thank you for visiting my webpage!
+        {{< clustrmaps >}}
     design:
       columns: '2'
-
-  - block: contact
-      id: maps
-      content:
-      title: Map
-      id: contact
-      text: | 
-             Thank you for visiting my webpage!!
-              {{< clustrmaps >}}
-    design:
-      columns: '1'
 ---
