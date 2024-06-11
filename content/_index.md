@@ -317,7 +317,6 @@ sections:
       #     # Enable CAPTCHA challenge to reduce spam?
       #     captcha: false
       text: |
-        Thank you for visiting my webpage!
         {{< clustrmaps >}}
     design:
       columns: '2'
