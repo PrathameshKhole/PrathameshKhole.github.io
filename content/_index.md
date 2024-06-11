@@ -308,6 +308,9 @@ sections:
       #     link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
       autolink: true
+      text: |
+            Welcome to my website!
+            {{< clustrmaps >}}
       # Email form provider
       # form:
       #   provider: netlify
@@ -319,10 +322,4 @@ sections:
     
     design:
       columns: '2'
-  - block: globe
-    content:
-      text: |
-        {{< clustrmaps >}}
-    design:
-      columns: '1'
 ---
