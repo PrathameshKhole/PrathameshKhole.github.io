@@ -276,7 +276,7 @@ sections:
         Please feel free to reach out to me via email or call
       # Contact (add or remove contact options as necessary)
       email: pkhole@ucsc.edu
-      phone: +1 831 295 9354
+      # phone: +1 831 295 9354
       # appointment_url: 'https://calendly.com'
       address:
         # street: 450 Serra Mall
@@ -293,9 +293,6 @@ sections:
       coordinates:
         latitude: '36.974117'
         longitude: '-122.030792'  
-        text: | 
-            Thank you for visiting my webpage!!
-            {{< clustrmaps >}}
       # contact_links:
       #   - icon: twitter
       #     icon_pack: fab
@@ -319,7 +316,12 @@ sections:
       #   netlify:
       #     # Enable CAPTCHA challenge to reduce spam?
       #     captcha: false
-    
     design:
       columns: '2'
+
+  - block: contact
+    title: Map
+    text: | 
+            Thank you for visiting my webpage!!
+            {{< clustrmaps >}}
 ---
