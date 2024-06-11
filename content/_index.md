@@ -316,9 +316,9 @@ sections:
       #   netlify:
       #     # Enable CAPTCHA challenge to reduce spam?
       #     captcha: false
-    - globe:
-      {{< clustrmaps >}}
+    
     design:
       columns: '2'
-    
+  - block: globe
+    img: {{< clustrmaps >}}
 ---
