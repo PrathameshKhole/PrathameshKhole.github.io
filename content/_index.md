@@ -320,8 +320,13 @@ sections:
       columns: '2'
 
   - block: contact
-    title: Map
-    text: | 
-            Thank you for visiting my webpage!!
-            {{< clustrmaps >}}
+      id: maps
+      content:
+      title: Map
+      id: contact
+      text: | 
+             Thank you for visiting my webpage!!
+              {{< clustrmaps >}}
+    design:
+      columns: '1'
 ---
