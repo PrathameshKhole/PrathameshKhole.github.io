@@ -78,7 +78,7 @@ sections:
           description: |2-
               CSE-13S Systems and C Programming:
               * Conducting discussion sections
-              * Teaching C and UNIX programming.
+              * Teaching C and UNIX programming
               * Assessment of Assignments and Quizes
         - title: Graduate Student Researcher
           company: Razvan Marinescu's Lab
@@ -104,7 +104,7 @@ sections:
               CSE-12 Systems and Assembly Language:
               * Conducting Lab sessions
               * Teaching Digital logic design in labs
-              * Teaching and Debugging RISC-V in lab sections.
+              * Teaching and Debugging RISC-V in lab sections
               * Assessment of Assignments and Quizes
         - title: Data Engineer
           company: ZS Associates
@@ -130,7 +130,6 @@ sections:
           date_end: '2019-08-31'
           description: |2-
               Responsibilities include:
-
               * Conducting Process Graphics validation to ensure alignment with project specifications.
               * Performing database integrity checks to maintain adherence to input specifications and data accuracy.
     design:
