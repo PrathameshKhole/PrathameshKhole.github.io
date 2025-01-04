@@ -66,7 +66,6 @@ sections:
 
               * Medical Image Simulators
               * Medical Image Visualization
-        items:
         - title: Teaching Assistant
           company: Univeristy of California Santa Cruz
           company_url: 'https://engineering.ucsc.edu/departments/computer-science-and-engineering/'
