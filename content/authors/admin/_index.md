@@ -54,44 +54,44 @@ skills:
   - name: Languages
     items:
       - name: Python
-        description: ''
+        description: Python'
         icon_pack: fab
       - name: C++
-        description: ''
-        icon_pack: fab
-      - name: SQL
-        description: ''
+        description: 'C++'
         icon_pack: fab
       - name: MATLAB
-        description: ''
+        description: 'MATLAB'
+        icon_pack: fab
+      - name: SQL
+        description: 'SQL'
         icon_pack: fab
       - name: RISC-V
-        description: ''
+        description: 'RISC-V'
         icon_pack: fab
       - name: Julia
-        description: ''
+        description: 'Julia'
         icon_pack: fab
       - name: R
-        description: ''
+        description: 'R'
+        icon_pack: fab
+      - name: HiveQL
+        description: 'HiveQL'
         icon_pack: fab
   - name: Tools
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Pytorch
-        description: ''
-        icon_pack: fab
-      - name: BASH
-        description: ''
+        description: 'Pytorch'
         icon_pack: fab
       - name: AWS
-        description: ''
+        description: 'AWS'
         icon_pack: fab
       - name: Apache Hive
-        description: ''
+        description: 'Hive'
         icon_pack: fab
       - name: Google Cloud
-        description: ''
+        description: 'Google Cloud'
         icon_pack: fab
 
 # Social/Academic Networking
