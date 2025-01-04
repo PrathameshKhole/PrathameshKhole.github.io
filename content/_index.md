@@ -54,7 +54,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Research Assistant
+        - title: Graduate Research Assistant
           company: Razvan Marinescu's Lab
           company_url: 'https://razvanmarinescu.com/'
           company_logo: ucsc2
@@ -66,21 +66,33 @@ sections:
 
               * Medical Image Simulators
               * Medical Image Visualization
+        items:
+        - title: Teaching Assistant
+          company: Univeristy of California Santa Cruz
+          company_url: 'https://engineering.ucsc.edu/departments/computer-science-and-engineering/'
+          company_logo: ucsc2
+          location: Santa Cruz, California
+          date_start: '2024-01-01'
+          date_end: ''
+          description: |2-
+              CSE-13S C and Systems Programming:
+              * Conducting discussion sections
+              * Teaching C, and UNIX programming.
+              * Assessment of Assignments and Quizes
         - title: Teaching Assistant
           company: Univeristy of California Santa Cruz
           company_url: 'https://engineering.ucsc.edu/departments/computer-science-and-engineering/'
           company_logo: ucsc2
           location: Santa Cruz, California
           date_start: '2023-01-01'
-          date_end: ''
+          date_end: '2024-06-17'
           description: |2-
-              Responsibilities include:
-
+              CSE-12 Systems and Assembly Language:
               * Conducting Lab sessions
               * Teaching Digital logic design in labs
               * Teaching and Debugging RISC-V in lab sections.
               * Assessment of Assignments and Quizes
-        - title: Business Technology Solutions Associate
+        - title: Data Engineer
           company: ZS Associates
           company_url: 'https://www.zs.com/'
           company_logo: ZS
@@ -130,6 +142,8 @@ sections:
           tag: Medical Imaging
         - name: Deep Learning
           tag: Deep Learning
+        - name: Systems
+          tag: Systems
         - name: Cryptography
           tag: Cryptography
         - name: Blockchain
@@ -145,7 +159,7 @@ sections:
   - block: skills
     content:
       title: Technical Skills
-      text: 'Python, C++, SQL, MATLAB, Risc-V'
+      text: 'Python, C++, SQL, MATLAB, C, Risc-V'
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
     design:
@@ -273,7 +287,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Please feel free to reach out to me via email or call
+        Please feel free to reach out to me via email
       # Contact (add or remove contact options as necessary)
       email: pkhole@ucsc.edu
       # phone: +1 831 295 9354
@@ -282,7 +296,7 @@ sections:
         # street: 450 Serra Mall
         city: Santa Cruz
         region: CA
-        postcode: '95060'
+        postcode: '95064'
         country: United States
         country_code: US
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
@@ -291,8 +305,8 @@ sections:
       #   - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '36.974117'
-        longitude: '-122.030792'  
+        latitude: '37.00104938702899'
+        longitude: '-122.06326928947881'
       # contact_links:
       #   - icon: twitter
       #     icon_pack: fab

@@ -111,7 +111,7 @@ social:
     link: https://github.com/PratK99
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/prathamesh-khole-220258170/
+    link: https://www.linkedin.com/in/prathameshkhole/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -134,7 +134,7 @@ My current reseach has been mainly focused on physics based Diffusion MRI simula
 
 Hello! I am a Ph.D. student in Computer Science and Engineering at the [University of California, Santa Cruz](https://www.ucsc.edu/), where I am part of Professor [Razvan Marinescu](https://razvanmarinescu.com/)'s lab. My research focuses on developing differentiable physics-based simulators for medical imaging, with a particular emphasis on physics-based MRI simulators.
 
-I recently completed my M.S. in Computer Science and Engineering at the University of California, Santa Cruz, and I hold a Bachelor's degree in Computer Science with distinction from the [Pune Institute of Computer Technology](https://pict.edu/), affiliated with the [University of Pune](http://www.unipune.ac.in/).
+I recently completed my M.S. in Computer Science and Engineering at the [University of California, Santa Cruz](https://www.ucsc.edu/), and I hold a Bachelor's degree in Computer Science with distinction from the [Pune Institute of Computer Technology](https://pict.edu/), affiliated with the [University of Pune](http://www.unipune.ac.in/).
 
 In addition to my primary research areas, I am passionate about general artificial intelligence, and exploring how large language models (LLMs) can help in my research domains. Additionally, I have a keen interest in systems and databases.
 
