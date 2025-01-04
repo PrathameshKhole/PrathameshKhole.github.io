@@ -145,7 +145,7 @@ sections:
   - block: skills
     content:
       title: Technical Skills
-      text: 'Python, Pytorch, C++, SQL, MATLAB, Shell, AWS, Google Cloud, Risc-V, HiveQL'
+      text: 'Python, C++, SQL, MATLAB, Risc-V'
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
     design:
