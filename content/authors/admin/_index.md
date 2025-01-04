@@ -55,31 +55,24 @@ skills:
     items:
       - name: Python
         description: ''
-        # percent: 90
         icon_pack: fab
       - name: C++
         description: ''
-        # percent: 95
         icon_pack: fab
       - name: SQL
         description: ''
-        # percent: 90
         icon_pack: fab
       - name: MATLAB
         description: ''
-        # percent: 70
         icon_pack: fab
       - name: RISC-V
         description: ''
-        # percent: 80
         icon_pack: fab
       - name: Julia
         description: ''
-        # percent: 75
         icon_pack: fab
       - name: R
         description: ''
-        # percent: 85
         icon_pack: fab
   - name: Tools
     color: '#eeac02'
@@ -87,23 +80,18 @@ skills:
     items:
       - name: Pytorch
         description: ''
-        percent: 85
         icon_pack: fab
       - name: BASH
         description: ''
-        percent: 85
         icon_pack: fab
       - name: AWS
         description: ''
-        percent: 80
         icon_pack: fab
       - name: Apache Hive
         description: ''
-        percent: 90
         icon_pack: fab
       - name: Google Cloud
         description: ''
-        percent: 95
         icon_pack: fab
 
 # Social/Academic Networking
