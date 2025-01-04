@@ -76,7 +76,7 @@ sections:
           description: |2-
               CSE-13S Systems and C Programming:
               * Conducting discussion sections
-              * Teaching C, and UNIX programming.
+              * Teaching C and UNIX programming.
               * Assessment of Assignments and Quizes
         - title: Teaching Assistant
           company: Univeristy of California Santa Cruz
