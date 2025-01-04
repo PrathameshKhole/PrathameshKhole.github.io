@@ -55,31 +55,31 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 90
+        # percent: 90
         icon_pack: fab
       - name: C++
         description: ''
-        percent: 95
+        # percent: 95
         icon_pack: fab
       - name: SQL
         description: ''
-        percent: 90
+        # percent: 90
         icon_pack: fab
-      - name: JAVA
+      - name: MATLAB
         description: ''
-        percent: 70
+        # percent: 70
         icon_pack: fab
       - name: RISC-V
         description: ''
-        percent: 80
+        # percent: 80
         icon_pack: fab
       - name: Julia
         description: ''
-        percent: 75
+        # percent: 75
         icon_pack: fab
       - name: R
         description: ''
-        percent: 85
+        # percent: 85
         icon_pack: fab
   - name: Tools
     color: '#eeac02'
