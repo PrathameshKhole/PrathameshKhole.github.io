@@ -63,21 +63,36 @@ sections:
           date_end: ''
           description: |2-
               Working on:
-
               * Medical Image Simulators
               * Medical Image Visualization
+              * Mathematics
+              * Machine Learning
+              * Computer Graphics
         - title: Teaching Assistant
           company: Univeristy of California Santa Cruz
           company_url: 'https://engineering.ucsc.edu/departments/computer-science-and-engineering/'
           company_logo: ucsc2
           location: Santa Cruz, California
-          date_start: '2024-01-01'
+          date_start: '2025-01-01'
           date_end: ''
           description: |2-
               CSE-13S Systems and C Programming:
               * Conducting discussion sections
               * Teaching C and UNIX programming.
               * Assessment of Assignments and Quizes
+        - title: Graduate Student Researcher
+          company: Razvan Marinescu's Lab
+          company_url: 'https://razvanmarinescu.com/'
+          company_logo: ucsc2
+          location: Santa Cruz, California
+          date_start: '2024-06-17'
+          date_end: '2024-12-31'
+          description: |2-
+              Working on:
+              * Medical Image Simulators
+              * Medical Image Visualization
+              * Machine Learning
+              * Deep Learning
         - title: Teaching Assistant
           company: Univeristy of California Santa Cruz
           company_url: 'https://engineering.ucsc.edu/departments/computer-science-and-engineering/'
