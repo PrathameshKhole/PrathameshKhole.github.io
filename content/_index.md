@@ -74,7 +74,7 @@ sections:
           date_start: '2024-01-01'
           date_end: ''
           description: |2-
-              CSE-13S C and Systems Programming:
+              CSE-13S Systems and C Programming:
               * Conducting discussion sections
               * Teaching C, and UNIX programming.
               * Assessment of Assignments and Quizes
