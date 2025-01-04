@@ -6,7 +6,7 @@ tags:
 date: "2024-03-15"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://github.com/SanyaSriv/Octo-Wumpus-Scheduler.git
+# external_link: https://github.com/SanyaSriv/Octo-Wumpus-Scheduler.git
 
 image:
   caption: Octo-Wumpus Art
