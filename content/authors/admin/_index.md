@@ -50,49 +50,39 @@ education:
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Languages
-    items:
-      - name: Python
-        description: Python'
-        icon_pack: fab
-      - name: C++
-        description: 'C++'
-        icon_pack: fab
-      - name: MATLAB
-        description: 'MATLAB'
-        icon_pack: fab
-      - name: SQL
-        description: 'SQL'
-        icon_pack: fab
-      - name: RISC-V
-        description: 'RISC-V'
-        icon_pack: fab
-      - name: Julia
-        description: 'Julia'
-        icon_pack: fab
-      - name: R
-        description: 'R'
-        icon_pack: fab
-      - name: HiveQL
-        description: 'HiveQL'
-        icon_pack: fab
-  - name: Tools
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Pytorch
-        description: 'Pytorch'
-        icon_pack: fab
-      - name: AWS
-        description: 'AWS'
-        icon_pack: fab
-      - name: Apache Hive
-        description: 'Hive'
-        icon_pack: fab
-      - name: Google Cloud
-        description: 'Google Cloud'
-        icon_pack: fab
+# skills:
+#   - name: Languages
+#     items:
+#       - name: Python
+#         icon_pack: fab
+#       - name: C++
+#         icon_pack: fab
+#       - name: MATLAB
+#         icon_pack: fab
+#       - name: SQL
+#         icon_pack: fab
+#       - name: Shell Script
+#         icon_pack: fab
+#       - name: RISC-V
+#         icon_pack: fab
+#       - name: Julia
+#         icon_pack: fab
+#       - name: R
+#         icon_pack: fab
+#       - name: HiveQL
+#         icon_pack: fab
+#   - name: Tools
+#     color: '#eeac02'
+#     color_border: '#f0bf23'
+#     items:
+#       - name: Pytorch
+#         icon_pack: fab
+#       - name: AWS
+#         icon_pack: fab
+#       - name: Apache Hive
+#         icon_pack: fab
+#       - name: Google Cloud
+#         icon_pack: fab
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
